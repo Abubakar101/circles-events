@@ -1,4 +1,4 @@
-## Circles-events-lab
+## Circles-events
 
 ### Objectives
 
